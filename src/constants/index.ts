@@ -1,0 +1,1 @@
+export const MAX_SUM_VALUE = 40000;
